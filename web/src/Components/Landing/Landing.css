@@ -1,0 +1,22 @@
+#popout {
+    background-image: url('./background.jpg');
+    min-height: 530px;
+    max-height: 530px;
+    width: 100%
+}
+#half-page-article {
+    width: 50%
+}
+#inner-box {
+    width: 90%; 
+    height: 250px; 
+    border-radius: 21px 21px 0 0;
+    background-image: url('./backgroundAddProduct.jpeg');
+}
+a:active {
+    color: white
+}
+
+a:visited {
+    color: white
+}
